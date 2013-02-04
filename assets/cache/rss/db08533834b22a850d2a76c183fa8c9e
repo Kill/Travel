@@ -1,0 +1,667 @@
+O:9:"MagpieRSS":23:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:20:{i:0;a:9:{s:5:"title";s:64:"MODX Evolution 1.0.8 Out with Forgot Manager Plugin Security Fix";s:4:"link";s:124:"http://feedproxy.google.com/~r/modx-announce/~3/PDZmmcdYing/modx-evolution-1-0-8-out-with-forgot-manager-plugin-security-fix";s:11:"description";s:1255:"<strong>Evolution 1.0.8 is Here.</strong><br />
+<br />
+This is a patch release of MODX Evolution to incorporate a <a href="http://forums.modx.com/thread/81545/modx-evolution-1-0-7-and-prior-forgotmanager-plugin-vulnerability#dis-post-449818" target="_blank" rel="nofollow">critical security fix</a> in the Forgot Manager Login plugin which is distributed along with the core. <br />
+<ul class="dis-ul"><br />
+<li><a href="http://modx.com/download/evolution/" target="_blank" rel="nofollow">Download Evolution 1.0.8</a></li>
+<li><a href="http://forums.modx.com/board/?board=276" target="_blank" rel="nofollow">Discuss Evolution 1.0.8</a></li>
+<li><a href="http://tracker.modx.com/projects/evo/issues" target="_blank" rel="nofollow">File a bug on Evo 1.0.8</a></li>
+</ul>
+To stay up to date with all the latest security news, be sure to keep an eye on <br />
+<br />
+Sincerely,<br />
+The MODX Team<br />
+<br />
+<div class="dis-code"><pre class="brush: php; toolbar: false">Changelog/Release Notes:
+MODx Evolution 1.0.8 (Jan 08, 2013)
+===================================
+--------------------------------------------
+Security:
+--------------------------------------------
+* &#91;#9391&#93; Prevent hash array exploit in Forgot Manager Login plugin
+</pre></div>";s:8:"comments";s:116:"http://forums.modx.com/thread/81645/modx-evolution-1-0-8-out-with-forgot-manager-plugin-security-fix#dis-post-450371";s:7:"pubdate";s:31:"Mon, 14 Jan 2013 11:07:59 -0600";s:4:"guid";s:116:"http://forums.modx.com/thread/81645/modx-evolution-1-0-8-out-with-forgot-manager-plugin-security-fix#dis-post-450371";s:10:"feedburner";a:1:{s:8:"origlink";s:116:"http://forums.modx.com/thread/81645/modx-evolution-1-0-8-out-with-forgot-manager-plugin-security-fix#dis-post-450371";}s:7:"summary";s:1255:"<strong>Evolution 1.0.8 is Here.</strong><br />
+<br />
+This is a patch release of MODX Evolution to incorporate a <a href="http://forums.modx.com/thread/81545/modx-evolution-1-0-7-and-prior-forgotmanager-plugin-vulnerability#dis-post-449818" target="_blank" rel="nofollow">critical security fix</a> in the Forgot Manager Login plugin which is distributed along with the core. <br />
+<ul class="dis-ul"><br />
+<li><a href="http://modx.com/download/evolution/" target="_blank" rel="nofollow">Download Evolution 1.0.8</a></li>
+<li><a href="http://forums.modx.com/board/?board=276" target="_blank" rel="nofollow">Discuss Evolution 1.0.8</a></li>
+<li><a href="http://tracker.modx.com/projects/evo/issues" target="_blank" rel="nofollow">File a bug on Evo 1.0.8</a></li>
+</ul>
+To stay up to date with all the latest security news, be sure to keep an eye on <br />
+<br />
+Sincerely,<br />
+The MODX Team<br />
+<br />
+<div class="dis-code"><pre class="brush: php; toolbar: false">Changelog/Release Notes:
+MODx Evolution 1.0.8 (Jan 08, 2013)
+===================================
+--------------------------------------------
+Security:
+--------------------------------------------
+* &#91;#9391&#93; Prevent hash array exploit in Forgot Manager Login plugin
+</pre></div>";s:14:"date_timestamp";i:1358183279;}i:1;a:9:{s:5:"title";s:23:"Forum Maintenance today";s:4:"link";s:83:"http://feedproxy.google.com/~r/modx-announce/~3/jWbwqnKWqBA/forum-maintenance-today";s:11:"description";s:253:"Around 3:30PM CST (21:30 GMT), the Forums will be undergoing maintenance for a few minutes to improve the experience for users and moderators. We expect there to be less than 5 minutes downtime.<br />
+<br />
+UPDATE: The planned maintenance has finished.";s:8:"comments";s:75:"http://forums.modx.com/thread/81284/forum-maintenance-today#dis-post-447974";s:7:"pubdate";s:31:"Fri, 21 Dec 2012 10:22:55 -0600";s:4:"guid";s:75:"http://forums.modx.com/thread/81284/forum-maintenance-today#dis-post-447974";s:10:"feedburner";a:1:{s:8:"origlink";s:75:"http://forums.modx.com/thread/81284/forum-maintenance-today#dis-post-447974";}s:7:"summary";s:253:"Around 3:30PM CST (21:30 GMT), the Forums will be undergoing maintenance for a few minutes to improve the experience for users and moderators. We expect there to be less than 5 minutes downtime.<br />
+<br />
+UPDATE: The planned maintenance has finished.";s:14:"date_timestamp";i:1356106975;}i:2;a:9:{s:5:"title";s:30:"Pending Community Improvements";s:4:"link";s:90:"http://feedproxy.google.com/~r/modx-announce/~3/yx1J5OPhfQ8/pending-community-improvements";s:11:"description";s:939:"We are planning to <a href="http://forums.modx.com/thread/81001/time-to-clean-up-around-here#dis-post-446229" target="_blank" rel="nofollow">streamline the forum organization</a> and launch the new <a href="http://modx.com/blog/2012/12/07/lets-all-spread-modx-around-the-world/" target="_blank" rel="nofollow">MODX Ambassador</a> program to help expand and provide a better experience for the Community.<br />
+<br />
+We apologize in advance for any confusion, but wanted to give you advance warning for the upcoming changes to the forums, and invite you to <a href="http://forums.modx.com/thread/81001/time-to-clean-up-around-here#dis-post-446229" target="_blank" rel="nofollow">share your thoughts on the subject</a>. Also, we really do hope you&#039;ll consider helping spread MODX and <a href="http://modx.com/blog/2012/12/07/lets-all-spread-modx-around-the-world/" target="_blank" rel="nofollow">think about becoming an Ambassador</a>.";s:8:"comments";s:82:"http://forums.modx.com/thread/81002/pending-community-improvements#dis-post-446233";s:7:"pubdate";s:31:"Fri, 07 Dec 2012 03:59:32 -0600";s:4:"guid";s:82:"http://forums.modx.com/thread/81002/pending-community-improvements#dis-post-446233";s:10:"feedburner";a:1:{s:8:"origlink";s:82:"http://forums.modx.com/thread/81002/pending-community-improvements#dis-post-446233";}s:7:"summary";s:939:"We are planning to <a href="http://forums.modx.com/thread/81001/time-to-clean-up-around-here#dis-post-446229" target="_blank" rel="nofollow">streamline the forum organization</a> and launch the new <a href="http://modx.com/blog/2012/12/07/lets-all-spread-modx-around-the-world/" target="_blank" rel="nofollow">MODX Ambassador</a> program to help expand and provide a better experience for the Community.<br />
+<br />
+We apologize in advance for any confusion, but wanted to give you advance warning for the upcoming changes to the forums, and invite you to <a href="http://forums.modx.com/thread/81001/time-to-clean-up-around-here#dis-post-446229" target="_blank" rel="nofollow">share your thoughts on the subject</a>. Also, we really do hope you&#039;ll consider helping spread MODX and <a href="http://modx.com/blog/2012/12/07/lets-all-spread-modx-around-the-world/" target="_blank" rel="nofollow">think about becoming an Ambassador</a>.";s:14:"date_timestamp";i:1354874372;}i:3;a:9:{s:5:"title";s:60:"Revolution 2.2.6 Out Now—Template Update Fix and Much More";s:4:"link";s:118:"http://feedproxy.google.com/~r/modx-announce/~3/36fCCnAkYHE/revolution-2-2-6-out-now-template-update-fix-and-much-more";s:11:"description";s:1763:"Today we released MODX Revolution 2.2.6—just 8 weeks after 2.2.5 was released. This more frequent and consistent release cycle is to bring you fixes and improvements sooner and more predictably.<br />
+<br />
+Changes of note in Revolution 2.2.6 include ensuring Resource values update when Template is changed and another that corrects a crash saving a Resource where its Template Variable has restricted permissions. <br />
+<br />
+As always, this release also includes a few security fixes to keep your MODX sites safe. We always recommend upgrading to the latest version of Revolution.<br />
+<br />
+Here are the highlights of the 2.2.6 release:<br />
+<ul class="dis-ul"><br />
+<li>Corrected changing Template on Resources</li>
+<li>Resolved Save crash with Template Varibles that have restricted permissions. </li>
+<li>Optimized images in the Manager UI for performance boost.</li>
+<li>Fixed window closing when using MODX Browser when Manager Loaded in new browser tab.</li>
+<li>Removed the math Output Filter</li>
+<li>Prevent new Content Types from having Binary Checked</li>
+<li>Fix modX::stripTags() to close vulnerability</li>
+<li>Form Customization rules now applied when changing Template</li>
+<li>Changing Template no longer unsets Empty Cache for Resource</li>
+<li>For more details read the <a href="https://raw.github.com/modxcms/revolution/v2.2.6-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">complete changelog</a></li>
+</ul>
+<br />
+<a href="http://modx.com/revolution/download/" target="_blank" rel="nofollow">Download Revolution 2.2.6 now</a> or read the <a href="http://modx.com/blog/2012/12/03/revolution-2.2.6%E2%80%94template-update-fix-and-more/" target="_blank" rel="nofollow">complete announcement details</a> at the MODX Blog.";s:8:"comments";s:110:"http://forums.modx.com/thread/80873/revolution-2-2-6-out-now-template-update-fix-and-much-more#dis-post-445521";s:7:"pubdate";s:31:"Mon, 03 Dec 2012 04:50:38 -0600";s:4:"guid";s:110:"http://forums.modx.com/thread/80873/revolution-2-2-6-out-now-template-update-fix-and-much-more#dis-post-445521";s:10:"feedburner";a:1:{s:8:"origlink";s:110:"http://forums.modx.com/thread/80873/revolution-2-2-6-out-now-template-update-fix-and-much-more#dis-post-445521";}s:7:"summary";s:1763:"Today we released MODX Revolution 2.2.6—just 8 weeks after 2.2.5 was released. This more frequent and consistent release cycle is to bring you fixes and improvements sooner and more predictably.<br />
+<br />
+Changes of note in Revolution 2.2.6 include ensuring Resource values update when Template is changed and another that corrects a crash saving a Resource where its Template Variable has restricted permissions. <br />
+<br />
+As always, this release also includes a few security fixes to keep your MODX sites safe. We always recommend upgrading to the latest version of Revolution.<br />
+<br />
+Here are the highlights of the 2.2.6 release:<br />
+<ul class="dis-ul"><br />
+<li>Corrected changing Template on Resources</li>
+<li>Resolved Save crash with Template Varibles that have restricted permissions. </li>
+<li>Optimized images in the Manager UI for performance boost.</li>
+<li>Fixed window closing when using MODX Browser when Manager Loaded in new browser tab.</li>
+<li>Removed the math Output Filter</li>
+<li>Prevent new Content Types from having Binary Checked</li>
+<li>Fix modX::stripTags() to close vulnerability</li>
+<li>Form Customization rules now applied when changing Template</li>
+<li>Changing Template no longer unsets Empty Cache for Resource</li>
+<li>For more details read the <a href="https://raw.github.com/modxcms/revolution/v2.2.6-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">complete changelog</a></li>
+</ul>
+<br />
+<a href="http://modx.com/revolution/download/" target="_blank" rel="nofollow">Download Revolution 2.2.6 now</a> or read the <a href="http://modx.com/blog/2012/12/03/revolution-2.2.6%E2%80%94template-update-fix-and-more/" target="_blank" rel="nofollow">complete announcement details</a> at the MODX Blog.";s:14:"date_timestamp";i:1354531838;}i:4;a:9:{s:5:"title";s:58:"MODX 1.0.7 Out Now with Forgot Manager Plugin Security Fix";s:4:"link";s:118:"http://feedproxy.google.com/~r/modx-announce/~3/U_IMBLSr5Lw/modx-1-0-7-out-now-with-forgot-manager-plugin-security-fix";s:11:"description";s:1287:"<strong>Evolution 1.0.7 is Here.</strong><br />
+<br />
+This is a patch release of MODX Evolution to incorporate a <a href="http://forums.modx.com/thread/80701/modx-evolution-1-0-6-and-prior-unauthorized-manager-access#dis-post-444667" target="_blank" rel="nofollow">critical security fix</a> in the Forgot Manager Login plugin which is distributed along with the core.<br />
+<br />
+<ul class="dis-ul"><br />
+<li><a href="http://modx.com/download/evolution/" target="_blank" rel="nofollow">Download Evolution 1.0.7</a></li>
+<li><a href="http://forums.modx.com/board/?board=276" target="_blank" rel="nofollow">Discuss Evolution 1.0.7</a></li>
+<li><a href="http://tracker.modx.com/projects/evo/issues" target="_blank" rel="nofollow">File a bug on Evo 1.0.7</a></li>
+</ul>
+<br />
+Sincerely,<br />
+The MODX Team<br />
+<br />
+<span style="font-size:11px;"><strong>Changelog/Release Notes:</strong></span><br />
+<div class="dis-code"><pre class="brush: php; toolbar: false">MODx Evolution 1.0.7 (Nov 26, 2012)
+===================================
+--------------------------------------------
+Security:
+--------------------------------------------
+* Prevent users from unblocking themselves in Forgot Manager Login plugin
+* &#91;#9175&#93; Escape $hash in Forgot Manager Login plugin
+</pre></div>";s:8:"comments";s:110:"http://forums.modx.com/thread/80703/modx-1-0-7-out-now-with-forgot-manager-plugin-security-fix#dis-post-444671";s:7:"pubdate";s:31:"Mon, 26 Nov 2012 04:02:31 -0600";s:4:"guid";s:110:"http://forums.modx.com/thread/80703/modx-1-0-7-out-now-with-forgot-manager-plugin-security-fix#dis-post-444671";s:10:"feedburner";a:1:{s:8:"origlink";s:110:"http://forums.modx.com/thread/80703/modx-1-0-7-out-now-with-forgot-manager-plugin-security-fix#dis-post-444671";}s:7:"summary";s:1287:"<strong>Evolution 1.0.7 is Here.</strong><br />
+<br />
+This is a patch release of MODX Evolution to incorporate a <a href="http://forums.modx.com/thread/80701/modx-evolution-1-0-6-and-prior-unauthorized-manager-access#dis-post-444667" target="_blank" rel="nofollow">critical security fix</a> in the Forgot Manager Login plugin which is distributed along with the core.<br />
+<br />
+<ul class="dis-ul"><br />
+<li><a href="http://modx.com/download/evolution/" target="_blank" rel="nofollow">Download Evolution 1.0.7</a></li>
+<li><a href="http://forums.modx.com/board/?board=276" target="_blank" rel="nofollow">Discuss Evolution 1.0.7</a></li>
+<li><a href="http://tracker.modx.com/projects/evo/issues" target="_blank" rel="nofollow">File a bug on Evo 1.0.7</a></li>
+</ul>
+<br />
+Sincerely,<br />
+The MODX Team<br />
+<br />
+<span style="font-size:11px;"><strong>Changelog/Release Notes:</strong></span><br />
+<div class="dis-code"><pre class="brush: php; toolbar: false">MODx Evolution 1.0.7 (Nov 26, 2012)
+===================================
+--------------------------------------------
+Security:
+--------------------------------------------
+* Prevent users from unblocking themselves in Forgot Manager Login plugin
+* &#91;#9175&#93; Escape $hash in Forgot Manager Login plugin
+</pre></div>";s:14:"date_timestamp";i:1353924151;}i:5;a:9:{s:5:"title";s:17:"Forum Maintenance";s:4:"link";s:77:"http://feedproxy.google.com/~r/modx-announce/~3/g3wVPCoIFGo/forum-maintenance";s:11:"description";s:251:"We are performing maintenance on the forums today and part of tomorrow (ends Nov 10, 2012). <br />
+<br />
+While we don&#039;t expect any significant downtime, there may be periodic issues starting around 10PM CET (3PM Central in the US) for 2-3 hours.";s:8:"comments";s:69:"http://forums.modx.com/thread/80349/forum-maintenance#dis-post-442737";s:7:"pubdate";s:31:"Fri, 09 Nov 2012 08:32:23 -0600";s:4:"guid";s:69:"http://forums.modx.com/thread/80349/forum-maintenance#dis-post-442737";s:10:"feedburner";a:1:{s:8:"origlink";s:69:"http://forums.modx.com/thread/80349/forum-maintenance#dis-post-442737";}s:7:"summary";s:251:"We are performing maintenance on the forums today and part of tomorrow (ends Nov 10, 2012). <br />
+<br />
+While we don&#039;t expect any significant downtime, there may be periodic issues starting around 10PM CET (3PM Central in the US) for 2-3 hours.";s:14:"date_timestamp";i:1352471543;}i:6;a:9:{s:5:"title";s:39:"Help Ready Revolution 2.2.6 for Release";s:4:"link";s:99:"http://feedproxy.google.com/~r/modx-announce/~3/k3j6iFG4e_w/help-ready-revolution-2-2-6-for-release";s:11:"description";s:1375:"<a href="http://modx.com/blog/2012/10/23/help-ready-revolution-2.2.6-for-release/" target="_blank" rel="nofollow">Today we announced</a> that in the next three weeks (on November 13) we will release MODX Revolution 2.2.6. Everyone interested in testing is welcome to help ensure all major issues are resolved and no new issues have been introduced. At this time there has been only a single change but you can <a href="https://github.com/modxcms/revolution/compare/v2.2.5-pl...release-2.2" target="_blank" rel="nofollow">keep track of changes</a> as progress is made.<br />
+<br />
+To test, download the latest timestamped (Nov 23, 2012) versions of the impending 2.2.6 release below:<br />
+<ul class="dis-ul"><br />
+<li><a href="http://modx.s3.amazonaws.com/releases/2.2.6/modx-2.2.6-dev-20121123.zip" target="_blank" rel="nofollow">modx-2.2.6-dev-20121123.zip</a></li>
+<li><a href="http://modx.s3.amazonaws.com/releases/2.2.6/modx-2.2.6-dev-20121123-advanced.zip" target="_blank" rel="nofollow">modx-2.2.6-dev-20121123-advanced.zip</a></li>
+</ul>
+<br />
+We will post new downloads regularly. Please check back daily to get the most recent versions. Please <a href="http://tracker.modx.com/projects/revo/issues" target="_blank" rel="nofollow">report any issues</a> you find in your testing. Thanks to all of the folks who are currently testing and reporting issues regularly.";s:8:"comments";s:91:"http://forums.modx.com/thread/80074/help-ready-revolution-2-2-6-for-release#dis-post-441155";s:7:"pubdate";s:31:"Tue, 23 Oct 2012 03:12:26 -0500";s:4:"guid";s:91:"http://forums.modx.com/thread/80074/help-ready-revolution-2-2-6-for-release#dis-post-441155";s:10:"feedburner";a:1:{s:8:"origlink";s:91:"http://forums.modx.com/thread/80074/help-ready-revolution-2-2-6-for-release#dis-post-441155";}s:7:"summary";s:1375:"<a href="http://modx.com/blog/2012/10/23/help-ready-revolution-2.2.6-for-release/" target="_blank" rel="nofollow">Today we announced</a> that in the next three weeks (on November 13) we will release MODX Revolution 2.2.6. Everyone interested in testing is welcome to help ensure all major issues are resolved and no new issues have been introduced. At this time there has been only a single change but you can <a href="https://github.com/modxcms/revolution/compare/v2.2.5-pl...release-2.2" target="_blank" rel="nofollow">keep track of changes</a> as progress is made.<br />
+<br />
+To test, download the latest timestamped (Nov 23, 2012) versions of the impending 2.2.6 release below:<br />
+<ul class="dis-ul"><br />
+<li><a href="http://modx.s3.amazonaws.com/releases/2.2.6/modx-2.2.6-dev-20121123.zip" target="_blank" rel="nofollow">modx-2.2.6-dev-20121123.zip</a></li>
+<li><a href="http://modx.s3.amazonaws.com/releases/2.2.6/modx-2.2.6-dev-20121123-advanced.zip" target="_blank" rel="nofollow">modx-2.2.6-dev-20121123-advanced.zip</a></li>
+</ul>
+<br />
+We will post new downloads regularly. Please check back daily to get the most recent versions. Please <a href="http://tracker.modx.com/projects/revo/issues" target="_blank" rel="nofollow">report any issues</a> you find in your testing. Thanks to all of the folks who are currently testing and reporting issues regularly.";s:14:"date_timestamp";i:1350979946;}i:7;a:9:{s:5:"title";s:57:"Revolution 2.2.5—Improves Media Sources, Caching & More";s:4:"link";s:112:"http://feedproxy.google.com/~r/modx-announce/~3/ndLqnR_aXUA/revolution-2-2-5-improves-media-sources-caching-more";s:11:"description";s:1708:"Today we released MODX Revolution 2.2.5. We&#039;ve made many, many improvements since the 2.2.4 release in June—well over 150 commits. Fixes and improvements of note include improved Media Source function, Caching enhancements and a handling to prevent blank pages occuring on some older hosting environments. And, we finally updated the MODX logo in the Manager.<br />
+<br />
+Here are the highlights of the 2.2.5 release:<br />
+<ul class="dis-ul"><br />
+<li>Media Source fixes with Elements and Static Elements</li>
+<li>Corrected Media Source errors with modParser-&gt;getElement()</li>
+<li>Corrected Media Source errors with static element paths</li>
+<li>Optimized cache refresh query, big boost for sites with large Contexts, on MySQL 5.1 or earlier as well as addition cache fixes</li>
+<li>Added support for environments not supporting flock causing blank pages due to corrupted cache files</li>
+<li>Corrected various Resource editing bugs related to changing template</li>
+<li>ResourceGroup restricted TV&#039;s losing value when edited by users w/o access</li>
+<li>Form Customization rules now applied when changing Template</li>
+<li>Changing Template no longer unsets Empty Cache for Resource</li>
+<li>For more details read the <a href="https://raw.github.com/modxcms/revolution/v2.2.5-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">complete changelog</a></li>
+</ul>
+<br />
+<a href="http://modx.com/revolution/download/" target="_blank" rel="nofollow">Download Revolution 2.2.5 now</a> or read the <a href="http://modx.com/blog/2012/10/02/revolution-2.2.5-improves-media-sources-caching-and-more/" target="_blank" rel="nofollow">complete announcement details</a> at the MODX Blog.<br />";s:8:"comments";s:104:"http://forums.modx.com/thread/79687/revolution-2-2-5-improves-media-sources-caching-more#dis-post-438862";s:7:"pubdate";s:31:"Tue, 02 Oct 2012 05:38:18 -0500";s:4:"guid";s:104:"http://forums.modx.com/thread/79687/revolution-2-2-5-improves-media-sources-caching-more#dis-post-438862";s:10:"feedburner";a:1:{s:8:"origlink";s:104:"http://forums.modx.com/thread/79687/revolution-2-2-5-improves-media-sources-caching-more#dis-post-438862";}s:7:"summary";s:1708:"Today we released MODX Revolution 2.2.5. We&#039;ve made many, many improvements since the 2.2.4 release in June—well over 150 commits. Fixes and improvements of note include improved Media Source function, Caching enhancements and a handling to prevent blank pages occuring on some older hosting environments. And, we finally updated the MODX logo in the Manager.<br />
+<br />
+Here are the highlights of the 2.2.5 release:<br />
+<ul class="dis-ul"><br />
+<li>Media Source fixes with Elements and Static Elements</li>
+<li>Corrected Media Source errors with modParser-&gt;getElement()</li>
+<li>Corrected Media Source errors with static element paths</li>
+<li>Optimized cache refresh query, big boost for sites with large Contexts, on MySQL 5.1 or earlier as well as addition cache fixes</li>
+<li>Added support for environments not supporting flock causing blank pages due to corrupted cache files</li>
+<li>Corrected various Resource editing bugs related to changing template</li>
+<li>ResourceGroup restricted TV&#039;s losing value when edited by users w/o access</li>
+<li>Form Customization rules now applied when changing Template</li>
+<li>Changing Template no longer unsets Empty Cache for Resource</li>
+<li>For more details read the <a href="https://raw.github.com/modxcms/revolution/v2.2.5-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">complete changelog</a></li>
+</ul>
+<br />
+<a href="http://modx.com/revolution/download/" target="_blank" rel="nofollow">Download Revolution 2.2.5 now</a> or read the <a href="http://modx.com/blog/2012/10/02/revolution-2.2.5-improves-media-sources-caching-and-more/" target="_blank" rel="nofollow">complete announcement details</a> at the MODX Blog.<br />";s:14:"date_timestamp";i:1349174298;}i:8;a:9:{s:5:"title";s:38:"MODX Revolution 2.2.5 Call for Testing";s:4:"link";s:98:"http://feedproxy.google.com/~r/modx-announce/~3/eHu4rJYni1I/modx-revolution-2-2-5-call-for-testing";s:11:"description";s:1306:"<a href="http://modx.com/blog/2012/09/17/help-ready-the-release-of-revolution-2.2.5/" target="_blank" rel="nofollow">Today we announced</a> that in the next two weeks (on Oct 2) we will release MODX Revolution 2.2.5. Everyone interested in testing is welcome to help ensure all major issues are resolved and no new issues have been introduced. Here is a <a href="https://github.com/modxcms/revolution/compare/v2.2.4-pl...release-2.2" target="_blank" rel="nofollow">record of the changes</a> to date.<br />
+<br />
+To test, download the latest timestamped (Oct 1, 2012) versions of the impending 2.2.5 release below:<br />
+<ul class="dis-ul"><br />
+<li><a href="http://modx.s3.amazonaws.com/releases/2.2.5/modx-2.2.5-dev-20121001.zip" target="_blank" rel="nofollow">modx-2.2.5-dev-20121001.zip</a></li>
+<li><a href="http://modx.s3.amazonaws.com/releases/2.2.5/modx-2.2.5-dev-20121001-advanced.zip" target="_blank" rel="nofollow">modx-2.2.5-dev-20121001-advanced.zip</a></li>
+</ul>
+<br />
+We will post new downloads regularly. Please check back daily to get the most recent versions. Please <a href="http://tracker.modx.com/projects/revo/issues" target="_blank" rel="nofollow">report any issues</a> you find in your testing. Thanks to all of the folks who are currently testing and reporting issues regularly.";s:8:"comments";s:90:"http://forums.modx.com/thread/79379/modx-revolution-2-2-5-call-for-testing#dis-post-437307";s:7:"pubdate";s:31:"Mon, 17 Sep 2012 05:13:57 -0500";s:4:"guid";s:90:"http://forums.modx.com/thread/79379/modx-revolution-2-2-5-call-for-testing#dis-post-437307";s:10:"feedburner";a:1:{s:8:"origlink";s:90:"http://forums.modx.com/thread/79379/modx-revolution-2-2-5-call-for-testing#dis-post-437307";}s:7:"summary";s:1306:"<a href="http://modx.com/blog/2012/09/17/help-ready-the-release-of-revolution-2.2.5/" target="_blank" rel="nofollow">Today we announced</a> that in the next two weeks (on Oct 2) we will release MODX Revolution 2.2.5. Everyone interested in testing is welcome to help ensure all major issues are resolved and no new issues have been introduced. Here is a <a href="https://github.com/modxcms/revolution/compare/v2.2.4-pl...release-2.2" target="_blank" rel="nofollow">record of the changes</a> to date.<br />
+<br />
+To test, download the latest timestamped (Oct 1, 2012) versions of the impending 2.2.5 release below:<br />
+<ul class="dis-ul"><br />
+<li><a href="http://modx.s3.amazonaws.com/releases/2.2.5/modx-2.2.5-dev-20121001.zip" target="_blank" rel="nofollow">modx-2.2.5-dev-20121001.zip</a></li>
+<li><a href="http://modx.s3.amazonaws.com/releases/2.2.5/modx-2.2.5-dev-20121001-advanced.zip" target="_blank" rel="nofollow">modx-2.2.5-dev-20121001-advanced.zip</a></li>
+</ul>
+<br />
+We will post new downloads regularly. Please check back daily to get the most recent versions. Please <a href="http://tracker.modx.com/projects/revo/issues" target="_blank" rel="nofollow">report any issues</a> you find in your testing. Thanks to all of the folks who are currently testing and reporting issues regularly.";s:14:"date_timestamp";i:1347876837;}i:9;a:9:{s:5:"title";s:30:"MODX.com Login Issues Resolved";s:4:"link";s:90:"http://feedproxy.google.com/~r/modx-announce/~3/6YT1Ytfz1IU/modx-com-login-issues-resolved";s:11:"description";s:362:"We would like to apologize for the login issues over the last 8 hours at modx.com and related sites. <br />
+<br />
+We have been working to improve our fairly complex infrastructure and encountered interconnectivity and configuration issues in a maintenance process.<br />
+<br />
+We have now returned the services to normal. We sincerely appreciate your patience.";s:8:"comments";s:82:"http://forums.modx.com/thread/78344/modx-com-login-issues-resolved#dis-post-431914";s:7:"pubdate";s:31:"Wed, 01 Aug 2012 11:10:05 -0500";s:4:"guid";s:82:"http://forums.modx.com/thread/78344/modx-com-login-issues-resolved#dis-post-431914";s:10:"feedburner";a:1:{s:8:"origlink";s:82:"http://forums.modx.com/thread/78344/modx-com-login-issues-resolved#dis-post-431914";}s:7:"summary";s:362:"We would like to apologize for the login issues over the last 8 hours at modx.com and related sites. <br />
+<br />
+We have been working to improve our fairly complex infrastructure and encountered interconnectivity and configuration issues in a maintenance process.<br />
+<br />
+We have now returned the services to normal. We sincerely appreciate your patience.";s:14:"date_timestamp";i:1343837405;}i:10;a:9:{s:5:"title";s:74:"MODX.com Sites and Services Maintenance Tonight, July 31, 2012 8PM Central";s:4:"link";s:132:"http://feedproxy.google.com/~r/modx-announce/~3/LGMeWcw4W4s/modx-com-sites-and-services-maintenance-tonight-july-31-2012-8pm-central";s:11:"description";s:867:"We will be completing maintenance operations that commenced over the weekend at <a href="http://modx.com" target="_blank" rel="nofollow">http://modx.com</a> and some related services tonight: Tuesday, July 31, 2012 in the hours between 8PM-10PM Central Daylight (GMT -5).<br />
+<br />
+This maintenance will help improve performance and reliability of the MODX websites. Some of the services that <em>may</em> be effected by this maintenance include:<br />
+<ul class="dis-ul"><br />
+<li>The main MODX website (modx.com)</li>
+<li>Package Management/Extras </li>
+<li>Community Forums (forums.modx.com) </li>
+<li>Logging into any to areas requiring authentication such as tracker.modx.com and MODX Cloud. </li>
+</ul>  <br />
+<br />
+We apologize for the inconvenience and hope to keep any interruption to services to a minimum. <br />
+<br />
+Many thanks and Happy MODXing.";s:8:"comments";s:124:"http://forums.modx.com/thread/78339/modx-com-sites-and-services-maintenance-tonight-july-31-2012-8pm-central#dis-post-431903";s:7:"pubdate";s:31:"Tue, 31 Jul 2012 04:44:59 -0500";s:4:"guid";s:124:"http://forums.modx.com/thread/78339/modx-com-sites-and-services-maintenance-tonight-july-31-2012-8pm-central#dis-post-431903";s:10:"feedburner";a:1:{s:8:"origlink";s:124:"http://forums.modx.com/thread/78339/modx-com-sites-and-services-maintenance-tonight-july-31-2012-8pm-central#dis-post-431903";}s:7:"summary";s:867:"We will be completing maintenance operations that commenced over the weekend at <a href="http://modx.com" target="_blank" rel="nofollow">http://modx.com</a> and some related services tonight: Tuesday, July 31, 2012 in the hours between 8PM-10PM Central Daylight (GMT -5).<br />
+<br />
+This maintenance will help improve performance and reliability of the MODX websites. Some of the services that <em>may</em> be effected by this maintenance include:<br />
+<ul class="dis-ul"><br />
+<li>The main MODX website (modx.com)</li>
+<li>Package Management/Extras </li>
+<li>Community Forums (forums.modx.com) </li>
+<li>Logging into any to areas requiring authentication such as tracker.modx.com and MODX Cloud. </li>
+</ul>  <br />
+<br />
+We apologize for the inconvenience and hope to keep any interruption to services to a minimum. <br />
+<br />
+Many thanks and Happy MODXing.";s:14:"date_timestamp";i:1343727899;}i:11;a:9:{s:5:"title";s:74:"MODX Sites and Services Maintenance—Tonight, July 27, 2012 8PM-12AM CDT)";s:4:"link";s:129:"http://feedproxy.google.com/~r/modx-announce/~3/PGBqniL5RYA/modx-sites-and-services-maintenance-tonight-july-27-2012-8pm-12am-cdt";s:11:"description";s:846:"We will be performing maintenance operations at <a href="http://modx.com" target="_blank" rel="nofollow">http://modx.com</a> and some related services tonight Friday, July 27, 2012 in the hours between 8PM–12AM (Saturday) Central Daylight (GMT -5).<br />
+<br />
+This maintenance will help improve performance and reliability of the MODX websites. Some of the services that <em>may</em> be effected by this maintenance include:<br />
+<ul class="dis-ul"><br />
+<li>The main MODX website (modx.com)</li>
+<li>Package Management/Extras </li>
+<li>Community Forums (forums.modx.com) </li>
+<li>Logging into any to areas requiring authentication such as tracker.modx.com and MODX Cloud. </li>
+</ul>  <br />
+<br />
+We apologize for the inconvenience and hope to keep any interruption to services to a minimum. <br />
+<br />
+Many thanks and Happy MODXing.";s:8:"comments";s:121:"http://forums.modx.com/thread/78267/modx-sites-and-services-maintenance-tonight-july-27-2012-8pm-12am-cdt#dis-post-431528";s:7:"pubdate";s:31:"Fri, 27 Jul 2012 04:32:03 -0500";s:4:"guid";s:121:"http://forums.modx.com/thread/78267/modx-sites-and-services-maintenance-tonight-july-27-2012-8pm-12am-cdt#dis-post-431528";s:10:"feedburner";a:1:{s:8:"origlink";s:121:"http://forums.modx.com/thread/78267/modx-sites-and-services-maintenance-tonight-july-27-2012-8pm-12am-cdt#dis-post-431528";}s:7:"summary";s:846:"We will be performing maintenance operations at <a href="http://modx.com" target="_blank" rel="nofollow">http://modx.com</a> and some related services tonight Friday, July 27, 2012 in the hours between 8PM–12AM (Saturday) Central Daylight (GMT -5).<br />
+<br />
+This maintenance will help improve performance and reliability of the MODX websites. Some of the services that <em>may</em> be effected by this maintenance include:<br />
+<ul class="dis-ul"><br />
+<li>The main MODX website (modx.com)</li>
+<li>Package Management/Extras </li>
+<li>Community Forums (forums.modx.com) </li>
+<li>Logging into any to areas requiring authentication such as tracker.modx.com and MODX Cloud. </li>
+</ul>  <br />
+<br />
+We apologize for the inconvenience and hope to keep any interruption to services to a minimum. <br />
+<br />
+Many thanks and Happy MODXing.";s:14:"date_timestamp";i:1343381523;}i:12;a:9:{s:5:"title";s:46:"Tracker Scheduled Downtime July 18, 2012 7-9PM";s:4:"link";s:105:"http://feedproxy.google.com/~r/modx-announce/~3/w8xKo_lwAPk/tracker-scheduled-downtime-july-18-2012-7-9pm";s:11:"description";s:277:"The MODX Bug Tracker at <a href="http://tracker.modx.com" target="_blank" rel="nofollow">http://tracker.modx.com</a> will be undergoing some server upgrades and software update tonight (July 18, 2012). We will be taking it offline from 7-9 Central Time US. <br />
+<br />
+Thanks";s:8:"comments";s:97:"http://forums.modx.com/thread/78065/tracker-scheduled-downtime-july-18-2012-7-9pm#dis-post-430443";s:7:"pubdate";s:31:"Wed, 18 Jul 2012 04:23:25 -0500";s:4:"guid";s:97:"http://forums.modx.com/thread/78065/tracker-scheduled-downtime-july-18-2012-7-9pm#dis-post-430443";s:10:"feedburner";a:1:{s:8:"origlink";s:97:"http://forums.modx.com/thread/78065/tracker-scheduled-downtime-july-18-2012-7-9pm#dis-post-430443";}s:7:"summary";s:277:"The MODX Bug Tracker at <a href="http://tracker.modx.com" target="_blank" rel="nofollow">http://tracker.modx.com</a> will be undergoing some server upgrades and software update tonight (July 18, 2012). We will be taking it offline from 7-9 Central Time US. <br />
+<br />
+Thanks";s:14:"date_timestamp";i:1342603405;}i:13;a:9:{s:5:"title";s:57:"MODX Bug Tracker Server Upgrades Tonight (June 18th 2012)";s:4:"link";s:115:"http://feedproxy.google.com/~r/modx-announce/~3/LAeEe0Fe8Zo/modx-bug-tracker-server-upgrades-tonight-june-18th-2012";s:11:"description";s:277:"The MODX Bug Tracker at <a href="http://tracker.modx.com" target="_blank" rel="nofollow">http://tracker.modx.com</a> will be undergoing some server upgrades and software update tonight (June 18, 2012). We will be taking it offline from 7-9 Central Time US. <br />
+<br />
+Thanks";s:8:"comments";s:107:"http://forums.modx.com/thread/77368/modx-bug-tracker-server-upgrades-tonight-june-18th-2012#dis-post-427037";s:7:"pubdate";s:31:"Mon, 18 Jun 2012 04:54:35 -0500";s:4:"guid";s:107:"http://forums.modx.com/thread/77368/modx-bug-tracker-server-upgrades-tonight-june-18th-2012#dis-post-427037";s:10:"feedburner";a:1:{s:8:"origlink";s:107:"http://forums.modx.com/thread/77368/modx-bug-tracker-server-upgrades-tonight-june-18th-2012#dis-post-427037";}s:7:"summary";s:277:"The MODX Bug Tracker at <a href="http://tracker.modx.com" target="_blank" rel="nofollow">http://tracker.modx.com</a> will be undergoing some server upgrades and software update tonight (June 18, 2012). We will be taking it offline from 7-9 Central Time US. <br />
+<br />
+Thanks";s:14:"date_timestamp";i:1340013275;}i:14;a:9:{s:5:"title";s:54:"Out Now: Revolution 2.2.4—File Media Source Path Fix";s:4:"link";s:111:"http://feedproxy.google.com/~r/modx-announce/~3/KuZj4SNChyM/out-now-revolution-2-2-4-file-media-source-path-fix";s:11:"description";s:1453:"Today we released MODX Revolution 2.2.4 to correct an issue related to media sources that effected the files tab and media browser. This release incorporates the same fixes and improvements from 2.2.3 including some under the hood adjustments and important bugfixes including Resource saving on multi-context websites.<br />
+<br />
+Here is the change in 2.2.4:<ul class="dis-ul"><li>Fixed media source path issue effecting media browser and the files tab.</li></ul>
+<br />
+Here are the highlights of the 2.2.3 release:<ul class="dis-ul"><li>Add new friendly URLs setting to avoid forced 301 redirects to the actual URL</li>
+<li>Corrected ability to edit Resources in contexts other than the default &quot;web&quot; context</li>
+<li>Restricted users to the precise media source path setting</li>
+<li>Fix issue with saving a new media source access on user group edit screen</li>
+<li>Fix Resource quick update showing 2 checkboxes</li>
+<li>Fix issue with add/decr output filter not adding 0 if 0 is passed  </li>
+<li>For more detail read the <a href="https://raw.github.com/modxcms/revolution/v2.2.4-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">Complete Changelog</a></li>
+</ul>
+<br />
+<a href="http://modx.com/download/" target="_blank" rel="nofollow">Download Revolution 2.2.4 now</a> or read the <a href="http://modx.com/blog/2012/06/15/revolution-2.2.4/" target="_blank" rel="nofollow">complete announcement details</a> at the MODX Blog.";s:8:"comments";s:103:"http://forums.modx.com/thread/77315/out-now-revolution-2-2-4-file-media-source-path-fix#dis-post-426823";s:7:"pubdate";s:31:"Fri, 15 Jun 2012 01:36:11 -0500";s:4:"guid";s:103:"http://forums.modx.com/thread/77315/out-now-revolution-2-2-4-file-media-source-path-fix#dis-post-426823";s:10:"feedburner";a:1:{s:8:"origlink";s:103:"http://forums.modx.com/thread/77315/out-now-revolution-2-2-4-file-media-source-path-fix#dis-post-426823";}s:7:"summary";s:1453:"Today we released MODX Revolution 2.2.4 to correct an issue related to media sources that effected the files tab and media browser. This release incorporates the same fixes and improvements from 2.2.3 including some under the hood adjustments and important bugfixes including Resource saving on multi-context websites.<br />
+<br />
+Here is the change in 2.2.4:<ul class="dis-ul"><li>Fixed media source path issue effecting media browser and the files tab.</li></ul>
+<br />
+Here are the highlights of the 2.2.3 release:<ul class="dis-ul"><li>Add new friendly URLs setting to avoid forced 301 redirects to the actual URL</li>
+<li>Corrected ability to edit Resources in contexts other than the default &quot;web&quot; context</li>
+<li>Restricted users to the precise media source path setting</li>
+<li>Fix issue with saving a new media source access on user group edit screen</li>
+<li>Fix Resource quick update showing 2 checkboxes</li>
+<li>Fix issue with add/decr output filter not adding 0 if 0 is passed  </li>
+<li>For more detail read the <a href="https://raw.github.com/modxcms/revolution/v2.2.4-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">Complete Changelog</a></li>
+</ul>
+<br />
+<a href="http://modx.com/download/" target="_blank" rel="nofollow">Download Revolution 2.2.4 now</a> or read the <a href="http://modx.com/blog/2012/06/15/revolution-2.2.4/" target="_blank" rel="nofollow">complete announcement details</a> at the MODX Blog.";s:14:"date_timestamp";i:1339742171;}i:15;a:9:{s:5:"title";s:66:"MODX Revolution 2.2.3 Out Now—Fixes and Some Little Improvements";s:4:"link";s:124:"http://feedproxy.google.com/~r/modx-announce/~3/XzZlSCZ9-aA/modx-revolution-2-2-3-out-now-fixes-and-some-little-improvements";s:11:"description";s:1111:"Today we released MODX Revolution 2.2.3. This release is for some under the hood adjustments and bugfixes.<br />
+<br />
+Here are the highlights of the 2.2.3 release:<ul class="dis-ul"><li>Add new friendly URLs setting to avoid forced 301 redirects to the actual URL</li>
+<li>Corrected ability to edit Resources in contexts other than the default &quot;web&quot; context</li>
+<li>Restricted users to the precise media source path setting</li>
+<li>Fix issue with saving a new media source access on user group edit screen</li>
+<li>Fix Resource quick update showing 2 checkboxes</li>
+<li>Fix issue with add/decr output filter not adding 0 if 0 is passed  </li>
+<li>For more detail read the <a href="https://raw.github.com/modxcms/revolution/v2.2.3-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">Complete Changelog</a></li>
+</ul>
+<br />
+<a href="http://modx.com/revolution/download/" target="_blank" rel="nofollow">Download Revolution 2.2.3 now</a> or read the <a href="http://modx.com/blog/2012/06/13/revolution-2.2.3/" target="_blank" rel="nofollow">complete announcement details</a> at the MODX Blog.";s:8:"comments";s:116:"http://forums.modx.com/thread/77242/modx-revolution-2-2-3-out-now-fixes-and-some-little-improvements#dis-post-426552";s:7:"pubdate";s:31:"Wed, 13 Jun 2012 03:38:22 -0500";s:4:"guid";s:116:"http://forums.modx.com/thread/77242/modx-revolution-2-2-3-out-now-fixes-and-some-little-improvements#dis-post-426552";s:10:"feedburner";a:1:{s:8:"origlink";s:116:"http://forums.modx.com/thread/77242/modx-revolution-2-2-3-out-now-fixes-and-some-little-improvements#dis-post-426552";}s:7:"summary";s:1111:"Today we released MODX Revolution 2.2.3. This release is for some under the hood adjustments and bugfixes.<br />
+<br />
+Here are the highlights of the 2.2.3 release:<ul class="dis-ul"><li>Add new friendly URLs setting to avoid forced 301 redirects to the actual URL</li>
+<li>Corrected ability to edit Resources in contexts other than the default &quot;web&quot; context</li>
+<li>Restricted users to the precise media source path setting</li>
+<li>Fix issue with saving a new media source access on user group edit screen</li>
+<li>Fix Resource quick update showing 2 checkboxes</li>
+<li>Fix issue with add/decr output filter not adding 0 if 0 is passed  </li>
+<li>For more detail read the <a href="https://raw.github.com/modxcms/revolution/v2.2.3-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">Complete Changelog</a></li>
+</ul>
+<br />
+<a href="http://modx.com/revolution/download/" target="_blank" rel="nofollow">Download Revolution 2.2.3 now</a> or read the <a href="http://modx.com/blog/2012/06/13/revolution-2.2.3/" target="_blank" rel="nofollow">complete announcement details</a> at the MODX Blog.";s:14:"date_timestamp";i:1339576702;}i:16;a:9:{s:5:"title";s:56:"MODX Revolution 2.2.2 Performance, Fixes + Some Wizardry";s:4:"link";s:113:"http://feedproxy.google.com/~r/modx-announce/~3/EZRq7jAybO0/modx-revolution-2-2-2-performance-fixes-some-wizardry";s:11:"description";s:1417:"Today we released MODX Revolution 2.2.2 which includes a number of important fixes, some minor—yet always welcome—performance improvements, and 2 new wizards to make it easier to create User and Resource Groups.<br />
+<br />
+Here are the highlights of the 2.2.2 release:<ul class="dis-ul"><li>New wizards for creating User and Resource Groups</li>
+    <li>xPDO change to improve performance, specifically with getResources</li>
+    <li>Upgrades from commandline no longer require all settings in the config file</li>
+    <li>Added User duplication for the easy creation of Users and to preserve settings</li>
+    <li>New prompt to login to regain access to work in progress after timeout</li>
+    <li>Improvement to URL handling</li>
+    <li>Further performance enhancements via xPDO method changes. </li><li>For more detail read the &#91;a href=&quot;<a href="https://raw.github.com/modxcms/revolution/v2.2.2-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">https://raw.github.com/modxcms/revolution/v2.2.2-pl/core/docs/changelog.txt</a>&quot;&gt;Complete Changelog&#91;/a&gt;</li>
+</ul>
+<br />
+<a href="http://modx.com/revolution/download/" target="_blank" rel="nofollow">Download Revolution 2.2.2 now</a> or read the <a href="http://modx.com/blog/2012/05/02/revolution-2.2.2-performance-fixes-plus-some-wizardry/" target="_blank" rel="nofollow">complete announcement and details</a> at the MODX Blog.";s:8:"comments";s:105:"http://forums.modx.com/thread/76292/modx-revolution-2-2-2-performance-fixes-some-wizardry#dis-post-422170";s:7:"pubdate";s:31:"Wed, 02 May 2012 01:28:04 -0500";s:4:"guid";s:105:"http://forums.modx.com/thread/76292/modx-revolution-2-2-2-performance-fixes-some-wizardry#dis-post-422170";s:10:"feedburner";a:1:{s:8:"origlink";s:105:"http://forums.modx.com/thread/76292/modx-revolution-2-2-2-performance-fixes-some-wizardry#dis-post-422170";}s:7:"summary";s:1417:"Today we released MODX Revolution 2.2.2 which includes a number of important fixes, some minor—yet always welcome—performance improvements, and 2 new wizards to make it easier to create User and Resource Groups.<br />
+<br />
+Here are the highlights of the 2.2.2 release:<ul class="dis-ul"><li>New wizards for creating User and Resource Groups</li>
+    <li>xPDO change to improve performance, specifically with getResources</li>
+    <li>Upgrades from commandline no longer require all settings in the config file</li>
+    <li>Added User duplication for the easy creation of Users and to preserve settings</li>
+    <li>New prompt to login to regain access to work in progress after timeout</li>
+    <li>Improvement to URL handling</li>
+    <li>Further performance enhancements via xPDO method changes. </li><li>For more detail read the &#91;a href=&quot;<a href="https://raw.github.com/modxcms/revolution/v2.2.2-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">https://raw.github.com/modxcms/revolution/v2.2.2-pl/core/docs/changelog.txt</a>&quot;&gt;Complete Changelog&#91;/a&gt;</li>
+</ul>
+<br />
+<a href="http://modx.com/revolution/download/" target="_blank" rel="nofollow">Download Revolution 2.2.2 now</a> or read the <a href="http://modx.com/blog/2012/05/02/revolution-2.2.2-performance-fixes-plus-some-wizardry/" target="_blank" rel="nofollow">complete announcement and details</a> at the MODX Blog.";s:14:"date_timestamp";i:1335940084;}i:17;a:9:{s:5:"title";s:48:"Revolution 2.2.1 Readies for MODX Cloud and More";s:4:"link";s:108:"http://feedproxy.google.com/~r/modx-announce/~3/yCtZpkrMm-w/revolution-2-2-1-readies-for-modx-cloud-and-more";s:11:"description";s:1541:"Today we released MODX Revolution 2.2.1 which prepares MODX Revolution for MODX Cloud, adds a few small enhancements and resolves or fixes more than 85 issues filed by the MODX community.<br />
+<br />
+Higlights of the changes in Revolution 2.2.1:<ul class="dis-ul"><li>Improved many functional issues in the Manager</li>
+    <li>Cleanups and changes for MODX Cloud</li>
+    <li>New user setting that gives unrestricted access regardless of  access policies.</li>
+    <li>Improved Form Customization to work only for a user&#039;s primary group.</li>
+    <li>Added language selection to login screen.</li>
+    <li>Enable MODX Tags to work in Media Source Properties</li>
+    <li>Enable HTML-only Custom Dashboard File Widgets</li>
+    <li>Corrected timezone issue on servers where PHP settings are incorrect.</li>
+    <li>Over 85 other fixes completed and issues resolved. (<a href="&quot;<a href="https://raw.github.com/modxcms/revolution/v2.2.1-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">https://raw.github.com/modxcms/revolution/v2.2.1-pl/core/docs/changelog.txt</a>&quot;" target="_blank" rel="nofollow">Complete Changelog</a>)<br />
+</li>
+</ul>
+<br />
+<a href="http://modx.com/revolution/download/" target="_blank" rel="nofollow">Download Revolution 2.2.1 now</a> or read the <a href="http://modx.com/blog/2012/04/03/revolution-2.2.1-readies-for-modx-cloud-and-more/?utm_source=modx_forum&amp;utm_medium=modx&amp;utm_campaign=revo221" target="_blank" rel="nofollow">complete announcement and details</a> at the MODX Blog.";s:8:"comments";s:100:"http://forums.modx.com/thread/75585/revolution-2-2-1-readies-for-modx-cloud-and-more#dis-post-418620";s:7:"pubdate";s:31:"Tue, 03 Apr 2012 11:38:29 -0500";s:4:"guid";s:100:"http://forums.modx.com/thread/75585/revolution-2-2-1-readies-for-modx-cloud-and-more#dis-post-418620";s:10:"feedburner";a:1:{s:8:"origlink";s:100:"http://forums.modx.com/thread/75585/revolution-2-2-1-readies-for-modx-cloud-and-more#dis-post-418620";}s:7:"summary";s:1541:"Today we released MODX Revolution 2.2.1 which prepares MODX Revolution for MODX Cloud, adds a few small enhancements and resolves or fixes more than 85 issues filed by the MODX community.<br />
+<br />
+Higlights of the changes in Revolution 2.2.1:<ul class="dis-ul"><li>Improved many functional issues in the Manager</li>
+    <li>Cleanups and changes for MODX Cloud</li>
+    <li>New user setting that gives unrestricted access regardless of  access policies.</li>
+    <li>Improved Form Customization to work only for a user&#039;s primary group.</li>
+    <li>Added language selection to login screen.</li>
+    <li>Enable MODX Tags to work in Media Source Properties</li>
+    <li>Enable HTML-only Custom Dashboard File Widgets</li>
+    <li>Corrected timezone issue on servers where PHP settings are incorrect.</li>
+    <li>Over 85 other fixes completed and issues resolved. (<a href="&quot;<a href="https://raw.github.com/modxcms/revolution/v2.2.1-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">https://raw.github.com/modxcms/revolution/v2.2.1-pl/core/docs/changelog.txt</a>&quot;" target="_blank" rel="nofollow">Complete Changelog</a>)<br />
+</li>
+</ul>
+<br />
+<a href="http://modx.com/revolution/download/" target="_blank" rel="nofollow">Download Revolution 2.2.1 now</a> or read the <a href="http://modx.com/blog/2012/04/03/revolution-2.2.1-readies-for-modx-cloud-and-more/?utm_source=modx_forum&amp;utm_medium=modx&amp;utm_campaign=revo221" target="_blank" rel="nofollow">complete announcement and details</a> at the MODX Blog.";s:14:"date_timestamp";i:1333471109;}i:18;a:9:{s:5:"title";s:60:"Evolution 1.0.6 - Security Fix and a Few Little Improvements";s:4:"link";s:120:"http://feedproxy.google.com/~r/modx-announce/~3/SaRsyybjxcg/evolution-1-0-6---security-fix-and-a-few-little-improvements";s:11:"description";s:2293:"<strong>Evolution 1.0.6 is Here.</strong><br />
+<br />
+It&#039;s been over a year since the previous release of MODX Evolution and it&#039;s still being downloaded many times every day. This is a patch release to incorporate a <a href="http://forums.modx.com/thread/74423/modx-evolution-1-0-5-and-prior-remote-script-execution-vulnerability#dis-post-412760" target="_blank" rel="nofollow">critical security fix</a> and a couple of other small resolutions. As there are only a few changes in this release you can review them in the changelog below. <br />
+<br />
+<strong>Due to the potential risk of <em>remote script execution</em>, Evolution 1.0.6 should be considered a mandatory update.</strong> <br />
+<br />
+Hopefully, we will be able to incorporate some larger improvements in the coming months with the help of community contributors. <br />
+<br />
+<ul class="dis-ul"><br />
+<li><a href="http://modx.com/download/evolution/" target="_blank" rel="nofollow">Download Evolution 1.0.6</a></li>
+<li><a href="http://forums.modx.com/board/?board=273" target="_blank" rel="nofollow">Discuss Evolution 1.0.6</a></li>
+<li><a href="http://tracker.modx.com/projects/evo/issues" target="_blank" rel="nofollow">File a bug on Evo 1.0.6</a></li>
+</ul>
+<br />
+Sincerely,<br />
+The MODX Team<br />
+<br />
+<span style="font-size:11px;"><strong>Changelog/Release Notes:</strong></span><br />
+<div class="dis-code"><pre class="brush: php; toolbar: false">MODx Evolution 1.0.6 (Mar 08, 2012)
+===================================
+--------------------------------------------
+Security:
+--------------------------------------------
+* &#91;#7175&#93; Fix sanitization to strip tags recursively in parser and in eForm
+
+--------------------------------------------
+Bugfixes:
+--------------------------------------------
+* &#91;#3799&#93; Fix table creation on MySQL databases that no longer support TYPE keyword
+* &#91;#3699&#93; Fix fatal error using default value on a Template Variable with @INHERIT binding
+
+--------------------------------------------
+Additional Improvements &amp; Updates:
+--------------------------------------------
+* &#91;#3796&#93; Fix manager_language not being sanitized
+* &#91;JA879&#93; improvement to pageCache read logic
+* Update minimum PHP version for manager to 4.3.3</pre></div>";s:8:"comments";s:112:"http://forums.modx.com/thread/74907/evolution-1-0-6---security-fix-and-a-few-little-improvements#dis-post-415307";s:7:"pubdate";s:31:"Thu, 08 Mar 2012 04:31:12 -0600";s:4:"guid";s:112:"http://forums.modx.com/thread/74907/evolution-1-0-6---security-fix-and-a-few-little-improvements#dis-post-415307";s:10:"feedburner";a:1:{s:8:"origlink";s:112:"http://forums.modx.com/thread/74907/evolution-1-0-6---security-fix-and-a-few-little-improvements#dis-post-415307";}s:7:"summary";s:2293:"<strong>Evolution 1.0.6 is Here.</strong><br />
+<br />
+It&#039;s been over a year since the previous release of MODX Evolution and it&#039;s still being downloaded many times every day. This is a patch release to incorporate a <a href="http://forums.modx.com/thread/74423/modx-evolution-1-0-5-and-prior-remote-script-execution-vulnerability#dis-post-412760" target="_blank" rel="nofollow">critical security fix</a> and a couple of other small resolutions. As there are only a few changes in this release you can review them in the changelog below. <br />
+<br />
+<strong>Due to the potential risk of <em>remote script execution</em>, Evolution 1.0.6 should be considered a mandatory update.</strong> <br />
+<br />
+Hopefully, we will be able to incorporate some larger improvements in the coming months with the help of community contributors. <br />
+<br />
+<ul class="dis-ul"><br />
+<li><a href="http://modx.com/download/evolution/" target="_blank" rel="nofollow">Download Evolution 1.0.6</a></li>
+<li><a href="http://forums.modx.com/board/?board=273" target="_blank" rel="nofollow">Discuss Evolution 1.0.6</a></li>
+<li><a href="http://tracker.modx.com/projects/evo/issues" target="_blank" rel="nofollow">File a bug on Evo 1.0.6</a></li>
+</ul>
+<br />
+Sincerely,<br />
+The MODX Team<br />
+<br />
+<span style="font-size:11px;"><strong>Changelog/Release Notes:</strong></span><br />
+<div class="dis-code"><pre class="brush: php; toolbar: false">MODx Evolution 1.0.6 (Mar 08, 2012)
+===================================
+--------------------------------------------
+Security:
+--------------------------------------------
+* &#91;#7175&#93; Fix sanitization to strip tags recursively in parser and in eForm
+
+--------------------------------------------
+Bugfixes:
+--------------------------------------------
+* &#91;#3799&#93; Fix table creation on MySQL databases that no longer support TYPE keyword
+* &#91;#3699&#93; Fix fatal error using default value on a Template Variable with @INHERIT binding
+
+--------------------------------------------
+Additional Improvements &amp; Updates:
+--------------------------------------------
+* &#91;#3796&#93; Fix manager_language not being sanitized
+* &#91;JA879&#93; improvement to pageCache read logic
+* Update minimum PHP version for manager to 4.3.3</pre></div>";s:14:"date_timestamp";i:1331202672;}i:19;a:9:{s:5:"title";s:70:"MODX Evolution 1.0.5 Tightens Security and Lots of Little Improvements";s:4:"link";s:130:"http://feedproxy.google.com/~r/modx-announce/~3/h7WYOQQ0p00/modx-evolution-1-0-5-tightens-security-and-lots-of-little-improvements";s:11:"description";s:9637:"<span style="font-size:11px;"><strong>A Long Time Coming But Evolution 1.0.5 is Here.</strong></span><br />
+<br />
+It&#039;s been more than 6 months since Evolution 1.0.4 was released and many people are making the move to Revolution but we are committed to continue building on and refining our beloved Evolution and making sure it is as safe and easy as ever. Due to a number of imporant security improvements we consider upgrading to Evolution 1.0.5 mandatory.<br />
+<br />
+Some highlights of this release include:<br />
+<ul class="dis-ul"><br />
+<li><strong>Security Enhancements</strong>—ongoing work to make sure your sites are safe from malicious attackers, including a workaround for a major PHP security bug that could crash servers running outdated versions of PHP</li>
+<li><strong>Manager Bugfixes and Enhancements</strong>—Over 20 improvments to the Manager to make it behave more consistently and predictably</li>
+<li><strong>Custom TVs and Widgets</strong>—Site builders can now define the HTML markup and behavior of TVs for truly custom TV behavior by inserting code directly into Input or Output widgets or using the @FILE binding to attach behaviors via files on the fielsystem</li>
+<li><strong>Template Inheritance Improvements</strong>—controllable via  a System Setting, now you can specific Template inheritance for child docs based on Siblings (with a fallback to parent), Parents (current behavior) or just the System Default. </li>
+<li><strong>@INHERIT Improvements</strong>—Now works fully with @FILE bindings and also allows you to specify a default fallback in the event no ancestor values are found</li> <br />
+<li><strong>Multibyte Language Enhancements</strong>—the Japanese community provided many enhancments to the core to improve experiences in multi-byte languages</li>
+<li><strong>All Major Core Components Updated</strong>—All major Add-ons brought up to their latest version, including jQuery 1.4.4</li>
+</ul>
+<br />
+Download <a href="http://modxcms.com/download/" target="_blank" rel="nofollow" onclick="_gaq.push(['_link','http://modxcms.com/download/" target="_blank" rel="nofollow']); return false;">Evolution 1.0.5</a><br />
+<a href="http://modxcms.com/forums/index.php/board,395.0.html" target="_blank" rel="nofollow" onclick="_gaq.push(['_link','http://modxcms.com/forums/index.php/board,395.0.html" target="_blank" rel="nofollow']); return false;">Discuss Evolution 1.0.5</a><br />
+<a href="http://bugs.modx.com/projects/evo/issues" target="_blank" rel="nofollow">File a bug on Evo 1.0.5</a><br />
+<br />
+We&#039;re excited to continue to build on Evolution and look forward to some major improvements in 1.1. <br />
+<br />
+We&#039;d also like to take the time to thank the members of the MODX Community that contributed fixes and improvements in 1.0.5:<br />
+<br />
+Yama, Max Paprikas, Goldsky, Nick Crossland, Coroico, lammikko, Susan Ottwell, David Bunker, Andrei Rimsa Alvares, WebSee, Thomas Jakobi, Zaigham R, Andrew andchir, Charlie Madison, Terry Mohan, Brett Florio, Keith Penton, and Esche Lev. <br />
+<br />
+Sincerely,<br />
+The MODX Team<br />
+<br />
+<span style="font-size:11px;"><strong>Changelog/Release Notes:</strong></span><br />
+<div class="dis-code"><pre class="brush: php; toolbar: false">This file shows the changes in recent releases of MODx. The most current release is usually the
+development release, and is only shown to give an idea of what's currently in the pipeline.
+
+MODx Evolution 1.0.5 (Jan 19, 2011)
+===================================
+--------------------------------------------
+Security:
+--------------------------------------------
+* &#91;#MODX-1035&#93; fix XSS vulnerability in installer
+* &#91;#2787&#93; fix XSS vuln. in image editor
+* &#91;#3352&#93; work around critical PHP bug 53632
+* &#91;#3437&#93; fix vulnerability in AjaxSearch allowing attacker to view arbitrary files (JVN#95385972)
+* &#91;#3429&#93; fix SQL injection vulnerability in AjaxSearch allowing attacker to execute arbitrary PHP code (JVN#54092716)
+
+--------------------------------------------
+Bugfixes:
+--------------------------------------------
+* &#91;#MODX-2245&#93; 3 events not firing: OnWebChangePassword, OnManagerSaveUser, OnManagerChangePassword
+* &#91;#MODX-1331&#93; Resources in tree unclickable if pagetitle contains line break
+* &#91;#100&#93; fix TV with Input Type 'Date' and Widget 'Unixtime' returns wrong value
+* &#91;#435&#93; improve installer handling of Sample Site option
+* &#91;#359&#93; published date always set due to ManagerManager demo rules
+* &#91;#488&#93; Fix bad check for mysql strict mode
+* &#91;#595&#93; Fix bad path on Resource Editor rich text fields when TMCE in "root relative" mode
+* &#91;#1252&#93; Fix @SELECT multi-select listbox TV losing its value when switching Content field "Editor to use"
+* &#91;#321&#93; stop parser from running case-mismatched snippet calls
+* &#91;#343&#93; Fix Hiding "Validate Referer" warning messes up the setting itself
+* &#91;#432&#93; Fix TV date-layer display problem with multiple datefields in FF 3.6.3
+* &#91;#445&#93; Fix error displaying filenames with non-Latin charsets
+* &#91;#577&#93; Fix Spanish UTF8 language file
+* &#91;#760&#93; Fix Document tree not loading in children
+* &#91;#609&#93; Fix web_groups and member_groups tables can have duplicate entries
+* &#91;#364&#93; Fix W3C validation problem with TV image output widget
+* &#91;#2957&#93; Allow multibyte strings in QuickManager+ TV buttons
+* &#91;#2711&#93; Re-fix path bug in Image Editor
+* &#91;#3060&#93; Fix message count on Manager welcome page
+* &#91;#1070&#93; Fixed bug in DocManager where it would not create new TV values, only update existing ones
+* &#91;#3163&#93; Fix RSS feed encode issue
+* &#91;#1871&#93; Fix for file manager when aggressive caching/pre-fetching is used at the ISP level (e.g. satellite internet)
+
+--------------------------------------------
+Additional Improvements &amp; Updates:
+--------------------------------------------
+* &#91;#MODX-1734&#93; Add context parameter to the getLoginUserName() API function
+* &#91;#4&#93; getDocumentObject allows full alias path to be specified
+* &#91;#443&#93; TinyMCE updated to 3.3.9.2
+* &#91;#23&#93; Quick Manager+ updated to 1.5.4
+* &#91;#421&#93; ManagerManager updated to 0.3.9
+* &#91;#421&#93; AjaxSearch updated to 1.9.2
+* &#91;#359&#93;&#91;#421&#93; Default Chunk for ManagerManager rules now "mm_rules"; Since demo rules are "mm_demo_rules", MM is now disabled on install
+* &#91;#308&#93; Return to active tab for Elements, regardless of "Remember tabs" system setting
+* &#91;#331&#93; Updated Czech language file
+* &#91;#881&#93; Improvements to Template inheritance (moved from plugin into core, added system setting to control behavior)
+* &#91;#592&#93; Adjustment of manager fonts
+* &#91;#476&#93; Improvement to New user's default role
+* &#91;#378&#93; Check for and disallow reserved words in Template Variable names
+* &#91;#1360&#93; Better handling of Template Switcher plugin
+* &#91;#833&#93; Manager and Web User comments field no longer limited to 255 characters
+* &#91;#1132&#93; New system setting to strip characters from files uploaded in Manage Files (using same logic configured for aliases)
+* &#91;#190&#93; Resolve hostnames config option deprecated
+* &#91;#1065&#93; Let manager themes have their own welcome.html page
+* &#91;#216&#93; Optimization of core methods (getParentIds &amp; getChildIds)
+* &#91;#819&#93; Improvement in config.inc.php file (new installs only) so proper MODX_SITE_URL constant is set in API Mode
+* &#91;#2867&#93; Improvements to installer with respect to handling of Demo Site option and related elements
+* &#91;#2867&#93; Laid foundation for "installsets" or preset groups of installer elements
+* &#91;#2963&#93; New icons in manager resource tree (to reflect site start, error page, site unavailable and unauthorized system settings)
+* &#91;#594&#93; Tweaked Quick Manager window open style
+* &#91;#487&#93; Links updated in demo site content
+* &#91;#3075&#93; Apply monospace font to manager textarea fields
+* &#91;#999&#93; Enhance ordering logic when displaying lists of TVs
+* &#91;#2953&#93; Fix QuickManager+ Google Chrome font problem (text-shadow)
+* &#91;#3063&#93;&#91;#3064&#93;&#91;#3065&#93; Replace calls to deprecated db-related parser methods with calls to db class methods
+* &#91;#2961&#93; Wayfinder improvement - allow use of &#91;+wf.alias+&#93;
+* &#91;#3061&#93; Allow @ and . characters in remembered login name
+* &#91;#3062&#93; Corrections to ActionList item names (given that Documents are now Resources and Resources are now Elements)
+* &#91;#3115&#93; Automatically regenerate siteCache if it not found
+* &#91;#835&#93; @INHERIT improved to work with @FILE, and to allow additional data after the @INHERIT
+* &#91;#3092&#93; Remove db user and pw from hidden form fields in installer
+* &#91;#194&#93; Improve and fix bugs in markup on Edit Resource screen
+* &#91;*3168&#93; remove debugging output from DocManager when updating TVs
+* &#91;#546&#93; Improve DocManager usability by adding checkboxes to TVs and removing "ignore list", which was hard to use
+* &#91;#3361&#93; Allow custom TemplateVariables and output widgets
+* &#91;#3362&#93; Updated distributed jQuery library to 1.4.4 and updated AjaxSearch, QuickManager+ and ManagerManager to use it
+* &#91;#2627&#93; New event allows plugin to inject custom markup into manager's header (header.inc.php)
+* &#91;#3385&#93; Wayfinder optimization when hideSubMenus is enabled
+* &#91;#3386&#93; Breadcrumbs optimizations
+* &#91;#3543&#93; Personalize updated to 2.1&#91;/code.&#93;<br />
+</pre></div>";s:8:"comments";s:120:"http://forums.modx.com/thread/237/modx-evolution-1-0-5-tightens-security-and-lots-of-little-improvements#dis-post-412069";s:7:"pubdate";s:31:"Wed, 15 Feb 2012 12:43:12 -0600";s:4:"guid";s:120:"http://forums.modx.com/thread/237/modx-evolution-1-0-5-tightens-security-and-lots-of-little-improvements#dis-post-412069";s:10:"feedburner";a:1:{s:8:"origlink";s:120:"http://forums.modx.com/thread/237/modx-evolution-1-0-5-tightens-security-and-lots-of-little-improvements#dis-post-412069";}s:7:"summary";s:9637:"<span style="font-size:11px;"><strong>A Long Time Coming But Evolution 1.0.5 is Here.</strong></span><br />
+<br />
+It&#039;s been more than 6 months since Evolution 1.0.4 was released and many people are making the move to Revolution but we are committed to continue building on and refining our beloved Evolution and making sure it is as safe and easy as ever. Due to a number of imporant security improvements we consider upgrading to Evolution 1.0.5 mandatory.<br />
+<br />
+Some highlights of this release include:<br />
+<ul class="dis-ul"><br />
+<li><strong>Security Enhancements</strong>—ongoing work to make sure your sites are safe from malicious attackers, including a workaround for a major PHP security bug that could crash servers running outdated versions of PHP</li>
+<li><strong>Manager Bugfixes and Enhancements</strong>—Over 20 improvments to the Manager to make it behave more consistently and predictably</li>
+<li><strong>Custom TVs and Widgets</strong>—Site builders can now define the HTML markup and behavior of TVs for truly custom TV behavior by inserting code directly into Input or Output widgets or using the @FILE binding to attach behaviors via files on the fielsystem</li>
+<li><strong>Template Inheritance Improvements</strong>—controllable via  a System Setting, now you can specific Template inheritance for child docs based on Siblings (with a fallback to parent), Parents (current behavior) or just the System Default. </li>
+<li><strong>@INHERIT Improvements</strong>—Now works fully with @FILE bindings and also allows you to specify a default fallback in the event no ancestor values are found</li> <br />
+<li><strong>Multibyte Language Enhancements</strong>—the Japanese community provided many enhancments to the core to improve experiences in multi-byte languages</li>
+<li><strong>All Major Core Components Updated</strong>—All major Add-ons brought up to their latest version, including jQuery 1.4.4</li>
+</ul>
+<br />
+Download <a href="http://modxcms.com/download/" target="_blank" rel="nofollow" onclick="_gaq.push(['_link','http://modxcms.com/download/" target="_blank" rel="nofollow']); return false;">Evolution 1.0.5</a><br />
+<a href="http://modxcms.com/forums/index.php/board,395.0.html" target="_blank" rel="nofollow" onclick="_gaq.push(['_link','http://modxcms.com/forums/index.php/board,395.0.html" target="_blank" rel="nofollow']); return false;">Discuss Evolution 1.0.5</a><br />
+<a href="http://bugs.modx.com/projects/evo/issues" target="_blank" rel="nofollow">File a bug on Evo 1.0.5</a><br />
+<br />
+We&#039;re excited to continue to build on Evolution and look forward to some major improvements in 1.1. <br />
+<br />
+We&#039;d also like to take the time to thank the members of the MODX Community that contributed fixes and improvements in 1.0.5:<br />
+<br />
+Yama, Max Paprikas, Goldsky, Nick Crossland, Coroico, lammikko, Susan Ottwell, David Bunker, Andrei Rimsa Alvares, WebSee, Thomas Jakobi, Zaigham R, Andrew andchir, Charlie Madison, Terry Mohan, Brett Florio, Keith Penton, and Esche Lev. <br />
+<br />
+Sincerely,<br />
+The MODX Team<br />
+<br />
+<span style="font-size:11px;"><strong>Changelog/Release Notes:</strong></span><br />
+<div class="dis-code"><pre class="brush: php; toolbar: false">This file shows the changes in recent releases of MODx. The most current release is usually the
+development release, and is only shown to give an idea of what's currently in the pipeline.
+
+MODx Evolution 1.0.5 (Jan 19, 2011)
+===================================
+--------------------------------------------
+Security:
+--------------------------------------------
+* &#91;#MODX-1035&#93; fix XSS vulnerability in installer
+* &#91;#2787&#93; fix XSS vuln. in image editor
+* &#91;#3352&#93; work around critical PHP bug 53632
+* &#91;#3437&#93; fix vulnerability in AjaxSearch allowing attacker to view arbitrary files (JVN#95385972)
+* &#91;#3429&#93; fix SQL injection vulnerability in AjaxSearch allowing attacker to execute arbitrary PHP code (JVN#54092716)
+
+--------------------------------------------
+Bugfixes:
+--------------------------------------------
+* &#91;#MODX-2245&#93; 3 events not firing: OnWebChangePassword, OnManagerSaveUser, OnManagerChangePassword
+* &#91;#MODX-1331&#93; Resources in tree unclickable if pagetitle contains line break
+* &#91;#100&#93; fix TV with Input Type 'Date' and Widget 'Unixtime' returns wrong value
+* &#91;#435&#93; improve installer handling of Sample Site option
+* &#91;#359&#93; published date always set due to ManagerManager demo rules
+* &#91;#488&#93; Fix bad check for mysql strict mode
+* &#91;#595&#93; Fix bad path on Resource Editor rich text fields when TMCE in "root relative" mode
+* &#91;#1252&#93; Fix @SELECT multi-select listbox TV losing its value when switching Content field "Editor to use"
+* &#91;#321&#93; stop parser from running case-mismatched snippet calls
+* &#91;#343&#93; Fix Hiding "Validate Referer" warning messes up the setting itself
+* &#91;#432&#93; Fix TV date-layer display problem with multiple datefields in FF 3.6.3
+* &#91;#445&#93; Fix error displaying filenames with non-Latin charsets
+* &#91;#577&#93; Fix Spanish UTF8 language file
+* &#91;#760&#93; Fix Document tree not loading in children
+* &#91;#609&#93; Fix web_groups and member_groups tables can have duplicate entries
+* &#91;#364&#93; Fix W3C validation problem with TV image output widget
+* &#91;#2957&#93; Allow multibyte strings in QuickManager+ TV buttons
+* &#91;#2711&#93; Re-fix path bug in Image Editor
+* &#91;#3060&#93; Fix message count on Manager welcome page
+* &#91;#1070&#93; Fixed bug in DocManager where it would not create new TV values, only update existing ones
+* &#91;#3163&#93; Fix RSS feed encode issue
+* &#91;#1871&#93; Fix for file manager when aggressive caching/pre-fetching is used at the ISP level (e.g. satellite internet)
+
+--------------------------------------------
+Additional Improvements &amp; Updates:
+--------------------------------------------
+* &#91;#MODX-1734&#93; Add context parameter to the getLoginUserName() API function
+* &#91;#4&#93; getDocumentObject allows full alias path to be specified
+* &#91;#443&#93; TinyMCE updated to 3.3.9.2
+* &#91;#23&#93; Quick Manager+ updated to 1.5.4
+* &#91;#421&#93; ManagerManager updated to 0.3.9
+* &#91;#421&#93; AjaxSearch updated to 1.9.2
+* &#91;#359&#93;&#91;#421&#93; Default Chunk for ManagerManager rules now "mm_rules"; Since demo rules are "mm_demo_rules", MM is now disabled on install
+* &#91;#308&#93; Return to active tab for Elements, regardless of "Remember tabs" system setting
+* &#91;#331&#93; Updated Czech language file
+* &#91;#881&#93; Improvements to Template inheritance (moved from plugin into core, added system setting to control behavior)
+* &#91;#592&#93; Adjustment of manager fonts
+* &#91;#476&#93; Improvement to New user's default role
+* &#91;#378&#93; Check for and disallow reserved words in Template Variable names
+* &#91;#1360&#93; Better handling of Template Switcher plugin
+* &#91;#833&#93; Manager and Web User comments field no longer limited to 255 characters
+* &#91;#1132&#93; New system setting to strip characters from files uploaded in Manage Files (using same logic configured for aliases)
+* &#91;#190&#93; Resolve hostnames config option deprecated
+* &#91;#1065&#93; Let manager themes have their own welcome.html page
+* &#91;#216&#93; Optimization of core methods (getParentIds &amp; getChildIds)
+* &#91;#819&#93; Improvement in config.inc.php file (new installs only) so proper MODX_SITE_URL constant is set in API Mode
+* &#91;#2867&#93; Improvements to installer with respect to handling of Demo Site option and related elements
+* &#91;#2867&#93; Laid foundation for "installsets" or preset groups of installer elements
+* &#91;#2963&#93; New icons in manager resource tree (to reflect site start, error page, site unavailable and unauthorized system settings)
+* &#91;#594&#93; Tweaked Quick Manager window open style
+* &#91;#487&#93; Links updated in demo site content
+* &#91;#3075&#93; Apply monospace font to manager textarea fields
+* &#91;#999&#93; Enhance ordering logic when displaying lists of TVs
+* &#91;#2953&#93; Fix QuickManager+ Google Chrome font problem (text-shadow)
+* &#91;#3063&#93;&#91;#3064&#93;&#91;#3065&#93; Replace calls to deprecated db-related parser methods with calls to db class methods
+* &#91;#2961&#93; Wayfinder improvement - allow use of &#91;+wf.alias+&#93;
+* &#91;#3061&#93; Allow @ and . characters in remembered login name
+* &#91;#3062&#93; Corrections to ActionList item names (given that Documents are now Resources and Resources are now Elements)
+* &#91;#3115&#93; Automatically regenerate siteCache if it not found
+* &#91;#835&#93; @INHERIT improved to work with @FILE, and to allow additional data after the @INHERIT
+* &#91;#3092&#93; Remove db user and pw from hidden form fields in installer
+* &#91;#194&#93; Improve and fix bugs in markup on Edit Resource screen
+* &#91;*3168&#93; remove debugging output from DocManager when updating TVs
+* &#91;#546&#93; Improve DocManager usability by adding checkboxes to TVs and removing "ignore list", which was hard to use
+* &#91;#3361&#93; Allow custom TemplateVariables and output widgets
+* &#91;#3362&#93; Updated distributed jQuery library to 1.4.4 and updated AjaxSearch, QuickManager+ and ManagerManager to use it
+* &#91;#2627&#93; New event allows plugin to inject custom markup into manager's header (header.inc.php)
+* &#91;#3385&#93; Wayfinder optimization when hideSubMenus is enabled
+* &#91;#3386&#93; Breadcrumbs optimizations
+* &#91;#3543&#93; Personalize updated to 2.1&#91;/code.&#93;<br />
+</pre></div>";s:14:"date_timestamp";i:1329331392;}}s:7:"channel";a:4:{s:5:"title";s:37:"Announcements - MODX Community Forums";s:4:"link";s:37:"http://forums.modx.com/board/?board=7";s:11:"description";s:34:"RSS Feed for MODX Community Forums";s:7:"tagline";s:34:"RSS Feed for MODX Community Forums";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"2.0";s:8:"encoding";s:5:"UTF-8";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;s:4:"etag";s:29:"9OrdavXUhtprH3JFELHDSnMFAbA
+";s:13:"last_modified";s:31:"Tue, 29 Jan 2013 13:20:37 GMT
+";}
